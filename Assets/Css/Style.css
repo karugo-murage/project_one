@@ -2,5 +2,31 @@
     background-color:rgb(165, 42, 83);
 }
 body{
-    align-content: center;
+    align-content:center;
+}
+#three{
+    height:18rem;
+    width:18rem;
+    float: right;
+}
+.zero{
+    display:flex ;
+    padding: 1rem 10rem;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+}
+li{
+    list-style: none;
+    margin:0 1rem;
+}
+.nav{
+    display: flex;
+    padding: 1rem 7rem;
+    justify-content: space-between;
+
+}
+#img1{
+    padding-right: 2rem;
 }
