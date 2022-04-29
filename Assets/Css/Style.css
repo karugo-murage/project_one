@@ -42,3 +42,12 @@ li{
 .story{
     padding: 1rem 10rem;
 }
+#board{
+    display:flex ;
+    padding: 1rem 10rem;
+    justify-content: space-between;
+}
+#img3{
+    height:12rem;
+    width:18rem;
+}
