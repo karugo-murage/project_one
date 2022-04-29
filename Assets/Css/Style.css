@@ -30,3 +30,15 @@ li{
 #img1{
     padding-right: 2rem;
 }
+#section2{
+    display:flex ;
+    padding: 1rem 10rem;
+    justify-content: space-between;
+}
+#img2{
+    height: 12rem;
+    width: 18rem;
+}
+.story{
+    padding: 1rem 10rem;
+}
