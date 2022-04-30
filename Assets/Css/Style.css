@@ -4,6 +4,7 @@
     font-family: 'Quicksand', sans-serif;
 }
 #one{
+    color:white;
     background-color:#EC4067;
 }
 body{
@@ -13,6 +14,14 @@ body{
     height:18rem;
     width:18rem;
     float: right;
+}
+.moringa{
+    display:flex;
+    justify-content: space-between;
+}
+.moringa img{
+    width:50vw;
+    height:50vh;
 }
 .zero{
     display:flex ;
@@ -31,42 +40,11 @@ li{
     justify-content: space-between;
 
 }
-#img1{
-    padding-right: 2rem;
-}
-#section2{
-    display:flex ;
-    padding: 1rem 10rem;
-    justify-content: space-between;
-}
-#img2{
-    height: 12rem;
-    width: 18rem;
-}
-.story{
-    padding: 1rem 10rem;
-}
-#board{
-    display:flex ;
-    padding: 1rem 10rem;
-    justify-content: space-between;
-}
-#img3{
-    height:12rem;
-    width:18rem;
-}
-#graduation{
-    height:12rem;
-    width:18rem;
-}
-#img4{
-    height: 12rem;
-    width: 18rem;
-}
 .technical{
     display:flex;
     justify-content: space-around;
-    margin-bottom: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
 }
 .technical div img{
     width:20vw;
@@ -97,8 +75,9 @@ button{
 .big{
     font-size: 2rem;
     font-weight: bold;
-    padding-left: 2rem;
+    margin-left: 2rem;
     margin-right: 0.5rem;
+    background-color:rgb(199, 199, 199);
 }
 .zero{
     padding-left: 2rem;
@@ -124,4 +103,30 @@ a{
     height:6vh;
     background-color: beige;
     padding-top: 2rem;
+}
+.stories{
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    margin-bottom: 5vh;
+    margin-top: 1rem;
+}
+.stories img{
+    width:35vw;
+    height:30vw;
+}
+#Orientation, #board-meeting, #graduation{
+    margin-bottom: 1rem;
+}
+#Orientation div, #board-meeting div, #graduation div{
+    width: 40%;
+}
+#Orientation, #graduation{
+    display: flex;
+    justify-content: space-evenly;
+
+}#board-meeting{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
 }
