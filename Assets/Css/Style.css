@@ -11,7 +11,6 @@ body{
 }
 .zero{
     display:flex ;
-    padding: 1rem 10rem;
     justify-content: space-between;
 }
 ul{
@@ -62,6 +61,7 @@ li{
 .technical{
     display:flex;
     justify-content: space-around;
+    margin-bottom: 2rem;
 }
 .technical div img{
     width:20vw;
@@ -74,4 +74,26 @@ li{
 }
 .technical div .dev{
     color:#EC4067;
+}
+.on-image{
+    color:white;
+    transform: translateY(-3rem);
+    padding-left: 1rem;
+}
+.technical img{
+    opacity: 0.9;
+}
+.zero div{
+    width:48vw;
+}
+#nine{
+    height:40vh;
+}
+.big{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-right: 0.5rem;
+}
+.bike{
+    padding-left: 2rem;
 }
