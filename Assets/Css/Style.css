@@ -109,8 +109,19 @@ button{
 }
 .fot{
     padding-left: 2rem;
+    margin-bottom: 2rem;
 }
 .fot p{
     color: #EC4067;
     font-size: 2rem;
+}
+a{
+    color: #EC4067;
+    text-decoration: none;
+}
+.footer{
+    text-align: center;
+    height:6vh;
+    background-color: beige;
+    padding-top: 2rem;
 }
