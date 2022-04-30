@@ -8,3 +8,7 @@
 This IP is about coding Moringa landing page using HTML and CSS.
 
 
+#### Technologies used
+HTML and CSS.
+
+####
