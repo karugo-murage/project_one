@@ -2,16 +2,17 @@
 
 ##  30/04/2022
 
-### By Gidion Karugo Murage
+## By Gidion Karugo Murage
 
-#### Description
+## Description
 This IP is about coding Moringa landing page using HTML and CSS.
 
 
-#### Technologies used
+## Technologies used
 HTML and CSS.
+<img src="Assets/Image/page.png" alt="Moringa school landing page" >
 
-#### Support and Contact details
+## Support and Contact details
 Email:giddykarugo@gmail.com
 Phone:0793003234
 
