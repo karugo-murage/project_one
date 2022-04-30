@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+*{
+    font-family: 'Quicksand', sans-serif;
+}
 #one{
-    background-color:rgb(165, 42, 83);
+    background-color:#EC4067;
 }
 body{
     align-content:center;
@@ -66,7 +71,7 @@ li{
 .technical div img{
     width:20vw;
 }
-.technical div button{
+button{
     color:white;
     background-color: #EC4067;
     border:none;
@@ -92,8 +97,20 @@ li{
 .big{
     font-size: 2rem;
     font-weight: bold;
+    padding-left: 2rem;
     margin-right: 0.5rem;
 }
-.bike{
+.zero{
     padding-left: 2rem;
+}
+.zero h1{
+    color:#EC4067;
+
+}
+.fot{
+    padding-left: 2rem;
+}
+.fot p{
+    color: #EC4067;
+    font-size: 2rem;
 }
