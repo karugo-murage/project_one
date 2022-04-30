@@ -59,3 +59,19 @@ li{
     height: 12rem;
     width: 18rem;
 }
+.technical{
+    display:flex;
+    justify-content: space-around;
+}
+.technical div img{
+    width:20vw;
+}
+.technical div button{
+    color:white;
+    background-color: #EC4067;
+    border:none;
+    border-radius:5px;
+}
+.technical div .dev{
+    color:#EC4067;
+}
